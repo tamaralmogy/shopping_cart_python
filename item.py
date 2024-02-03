@@ -9,3 +9,4 @@ class Item:
         return f'Name:\t\t\t{self.name}\n' \
                f'Price:\t\t\t{self.price}\n' \
                f'Description:\t{self.description}'
+
